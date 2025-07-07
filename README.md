@@ -33,10 +33,10 @@ The intuitive interface ensures efficient operational workflows and informed dec
 
 | Component         | Tech/Libraries        |
 | ----------------- | --------------------- |
-| Backend           | Java, Spring Boot     |
-| Database          | MySQL / PostgreSQL    |
+| Backend           | node.js               |
+| Database          | MongoDB               |
 | Frontend          | HTML, CSS, JavaScript |
-| Build & Dev Tools | Maven, Git            |
+| Build & Dev Tools | VS code, Git            |
 
 ---
 
@@ -49,19 +49,14 @@ The intuitive interface ensures efficient operational workflows and informed dec
    cd Krushi-Vahan
    ```
 
-2. **Configure the Database**
-
-   * Update credentials in `src/main/resources/application.properties`
-   * Ensure your MySQL/PostgreSQL server is running
-
-3. **Build & Run**
+2. **Build & Run**
 
    ```bash
-   mvn clean install
-   mvn spring-boot:run
+   node install
+   node server.js
    ```
 
-4. **Access the App**
+3. **Access the App**
    Visit `http://localhost:8080` in your browser.
 
 ---
@@ -105,8 +100,8 @@ Released under the [MIT License](./LICENSE).
 ## 📧 Contact
 
 **Sanket Gore**
-Email: [sanketgore1998@gmail.com](mailto:sanketgore1998@gmail.com)
-[LinkedIn](https://www.linkedin.com/in/sanket-gore-95bb49177/) • [GitHub](https://github.com/sanket-v-gore)
+Email: [sanketgore1998@gmail.com](mailto:gores5250@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/sanket-gore-a471282a0/) • [GitHub](https://github.com/sanket-v-gore)
 
 ---
 
